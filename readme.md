@@ -108,3 +108,19 @@ else:
 for i in range(5):
     print(i)
 ```
+
+- Function pada python
+
+```python
+def sapa(nama):
+    return "Halo, " + nama
+
+print(sapa("Budi"))
+```
+
+- Modul dan Paket
+
+```python
+import math
+print(math.sqrt(16))
+```

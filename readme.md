@@ -91,3 +91,20 @@ print(type(x), type(y), type(z))
 # Operator Aritmatika
 hasil = 5 + 3  # Penjumlahan
 ```
+
+- Percabangan
+
+```python
+nilai = 80
+if nilai >= 75:
+    print("Lulus")
+else:
+    print("Tidak Lulus")
+```
+
+- Perulangan
+
+```python
+for i in range(5):
+    print(i)
+```

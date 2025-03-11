@@ -33,9 +33,9 @@ source env/bin/activate
 - Apa itu Jupyter Notebook
 
 Jupyter Notebook adalah aplikasi berbasis web yang digunakan untuk membuat dan berbagi dokumen yang berisi:
-📌 Kode Python yang dapat dijalankan secara interaktif
-📌 Visualisasi data (grafik, tabel, dll.)
-📌 Catatan (Markdown, teks, gambar, dll.)
+1. 📌 Kode Python yang dapat dijalankan secara interaktif
+2. 📌 Visualisasi data (grafik, tabel, dll.)
+3. 📌 Catatan (Markdown, teks, gambar, dll.)
 
 ```python
 pip install notebook

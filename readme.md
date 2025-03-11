@@ -22,6 +22,7 @@ Virtual Environment (venv) adalah lingkungan terisolasi yang memungkinkan kita m
 ```python
 env\Scripts\activate
 ```
+-
   - MAC
 ```python
 source env/bin/activate

@@ -36,11 +36,15 @@ source env/bin/activate
 pip install notebook
 ```
 
-- Untuk menjalankan Notebook lakukan
+- Untuk menjalankan Notebook lakukan perintah
 
 ```python
 jupyter notebook
 ```
+
+- Membuat file .pynb untuk melakukan typing kode python
+
+![alt text](image-2.png)
 
 Jupyter Notebook adalah aplikasi berbasis web yang digunakan untuk membuat dan berbagi dokumen yang berisi:
 1. 📌 Kode Python yang dapat dijalankan secara interaktif

@@ -36,6 +36,12 @@ source env/bin/activate
 pip install notebook
 ```
 
+- Untuk menjalankan Notebook lakukan
+
+```python
+jupyter notebook
+```
+
 Jupyter Notebook adalah aplikasi berbasis web yang digunakan untuk membuat dan berbagi dokumen yang berisi:
 1. 📌 Kode Python yang dapat dijalankan secara interaktif
 2. 📌 Visualisasi data (grafik, tabel, dll.)
@@ -43,7 +49,7 @@ Jupyter Notebook adalah aplikasi berbasis web yang digunakan untuk membuat dan b
 
 Dokumentasi : https://jupyter.org/install
 
-### Struktur Dasar Python
+### Print Dasar Python
 
 - Contoh `Hello World` pada python
 
@@ -52,4 +58,14 @@ print("hello pak it")
 print("apa kabar ?")
 ```
 
-### 
+### Struktur Dasar Python
+
+- Sintaks Dasar
+
+Python menggunakan indentasi untuk menandai blok kode:
+
+```python
+if True:
+    print("Halo, Python!")
+```
+

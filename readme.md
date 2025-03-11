@@ -124,3 +124,10 @@ print(sapa("Budi"))
 import math
 print(math.sqrt(16))
 ```
+
+- Input dan Output
+
+```python
+nama = input("Masukkan nama: ")
+print("Halo, " + nama)
+```

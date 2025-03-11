@@ -17,6 +17,12 @@ Virtual Environment (venv) adalah lingkungan terisolasi yang memungkinkan kita m
 - ✅ Menjaga sistem tetap bersih tanpa harus menginstal library secara global.
 - ✅ Memudahkan pengelolaan dependensi proyek.
 
+```python
+env\Scripts\activate
+```
+
+![alt text](image-1.png)
+
 ## Instalasi Jupyter Notebook
 
 ```python

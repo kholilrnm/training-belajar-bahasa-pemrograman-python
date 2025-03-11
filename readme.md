@@ -13,9 +13,9 @@ python -m venv env
 ```
 
 Virtual Environment (venv) adalah lingkungan terisolasi yang memungkinkan kita menginstal library Python secara terpisah dari sistem utama. Ini berguna untuk:
-✅ Menghindari konflik antar proyek yang memerlukan versi library berbeda.
-✅ Menjaga sistem tetap bersih tanpa harus menginstal library secara global.
-✅ Memudahkan pengelolaan dependensi proyek.
+- ✅ Menghindari konflik antar proyek yang memerlukan versi library berbeda.
+- ✅ Menjaga sistem tetap bersih tanpa harus menginstal library secara global.
+- ✅ Memudahkan pengelolaan dependensi proyek.
 
 ## Instalasi Jupyter Notebook
 
@@ -23,9 +23,9 @@ Virtual Environment (venv) adalah lingkungan terisolasi yang memungkinkan kita m
 pip install notebook
 ```
 
-- Dokumentasi : https://jupyter.org/install
+Dokumentasi : https://jupyter.org/install
 
-<img src="image.png" width="300">
+<!-- <img src="image.png" width="300"> -->
 
 ### Struktur Dasar Python
 

@@ -42,16 +42,16 @@ pip install notebook
 jupyter notebook
 ```
 
-- Membuat file .pynb untuk melakukan typing kode python
-
-![alt text](image-2.png)
-
 Jupyter Notebook adalah aplikasi berbasis web yang digunakan untuk membuat dan berbagi dokumen yang berisi:
 1. 📌 Kode Python yang dapat dijalankan secara interaktif
 2. 📌 Visualisasi data (grafik, tabel, dll.)
 3. 📌 Catatan (Markdown, teks, gambar, dll.)
 
 Dokumentasi : https://jupyter.org/install
+
+- Membuat file .pynb untuk melakukan typing kode python
+
+![alt text](image-2.png)
 
 ### Print Dasar Python
 
@@ -69,7 +69,18 @@ print("apa kabar ?")
 Python menggunakan indentasi untuk menandai blok kode:
 
 ```python
-if True:
-    print("Halo, Python!")
+a = 'malam'
+if a != 'malam':
+    print("Pagi Pak IT !")
+else:
+    print("Malam Pak IT !")
 ```
 
+- Variabel dan Tipe Data
+
+```python
+x = 10      # Integer
+y = 3.14    # Float
+z = "Hello" # String
+print(type(x), type(y), type(z))
+```

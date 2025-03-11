@@ -5,7 +5,7 @@
 
 ### Struktur Dasar Python
 
-<a id="3"><h3>Contoh `Hello World` pada python</h3></a>
+- Contoh `Hello World` pada python
 
 ```python
 print("hello pak it")

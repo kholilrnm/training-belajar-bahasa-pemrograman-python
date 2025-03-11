@@ -25,6 +25,7 @@ env\Scripts\activate
 ```python
 source env/bin/activate
 ```
+- Cek Status Virtual Environment
 
 ![alt text](image-1.png)
 

@@ -17,13 +17,11 @@ Virtual Environment (venv) adalah lingkungan terisolasi yang memungkinkan kita m
 2. ✅ Menjaga sistem tetap bersih tanpa harus menginstal library secara global.
 3. ✅ Memudahkan pengelolaan dependensi proyek.
 
-- Aktifkan Virtual Environment
-  - Windows
+- Aktifkan Virtual Environment (Windows)
 ```python
 env\Scripts\activate
 ```
--
-  - MAC
+- Aktifkan Virtual Environment (MAC)
 ```python
 source env/bin/activate
 ```

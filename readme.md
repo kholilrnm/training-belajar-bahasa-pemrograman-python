@@ -84,3 +84,10 @@ y = 3.14    # Float
 z = "Hello" # String
 print(type(x), type(y), type(z))
 ```
+
+- Operator
+
+```python
+# Operator Aritmatika
+hasil = 5 + 3  # Penjumlahan
+```

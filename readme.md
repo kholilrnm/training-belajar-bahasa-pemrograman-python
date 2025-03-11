@@ -134,6 +134,8 @@ print("Halo, " + nama)
 
 ### QUIZ
 
+- Apa hasil dari kode berikut?
+
 ```python
 x = 5
 y = "5"
@@ -146,6 +148,8 @@ b) 55
 c) 10
 
 d) "55"
+
+- Apa output dari kode berikut?
 
 ```python
 x = [1, 2, 3]

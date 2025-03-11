@@ -132,6 +132,24 @@ nama = input("Masukkan nama: ")
 print("Halo, " + nama)
 ```
 
+- Class Object
+
+```python
+class Hewan:
+    def __init__(self, nama_hewan, suara):
+        self.nama_hewan = nama_hewan
+        self.suara = suara
+
+    def suara_hewan(self):
+        return f"Hewan: {self.nama_hewan}, Suara: {self.suara}"
+        
+
+hewan = Hewan("sapi", "Mooo")
+
+print(f"{hewan.nama_hewan} bersuara: {hewan.suara}")  
+print(hewan.suara_hewan())
+```
+
 ### QUIZ
 
 - Apa hasil dari kode berikut?

@@ -6,7 +6,7 @@
 ## Menyiapkan Folder Project
 - Siapkan Folder Project Kosong
 
-- Buat environment instalasi python
+- Buat environment instalasi python di dalam folder tersebut
 
 ```python
 python -m venv env
@@ -25,7 +25,7 @@ pip install notebook
 
 - Dokumentasi : https://jupyter.org/install
 
-![alt text](image.png)
+<img src="image.png" width="300">
 
 ### Struktur Dasar Python
 

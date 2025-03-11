@@ -152,7 +152,7 @@ print(hewan.suara_hewan())
 
 ### QUIZ
 
-- Apa hasil dari kode berikut?
+- 1. Apa hasil dari kode berikut?
 
 ```python
 x = 5
@@ -167,7 +167,7 @@ c) 10
 
 d) "55"
 
-- Apa output dari kode berikut?
+- 2. Apa output dari kode berikut?
 
 ```python
 x = [1, 2, 3]
@@ -183,7 +183,7 @@ c) Error
 
 d) [4]
 
-- Apa jawaban output yang benar kode dibawah ini?
+- 3. Apa jawaban output yang benar pada kode dibawah ini?
 
 ```python
 class Mobil:

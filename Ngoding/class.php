@@ -1,30 +1,22 @@
 <?php
-class Hero {
-    public $name;
-    public $role;
-    public $health;
-    public $attack;
+class Hewan {
+    public $nama_hewan;
+    public $suara;
 
-    public function __construct($name, $role, $health, $attack) {
-        $this->name = $name;
-        $this->role = $role;
-        $this->health = $health;
-        $this->attack = $attack;
+    public function __construct($nama_hewan, $suara) {
+        $this->nama_hewan = $nama_hewan;
+        $this->suara = $suara;
     }
 
-    public function displayInfo() {
-        return "Hero: $this->name, Role: $this->role, Health: $this->health, Attack: $this->attack";
+    public function suaraHewan() {
+        return "Hewan: {$this->nama_hewan}, Suara: {$this->suara}";
     }
 }
 
-// Membuat objek hero
-$hero1 = new Hero("Alucard", "Fighter", 3200, 150);
-$hero2 = new Hero("Layla", "Marksman", 2500, 180);
+// Membuat objek Hewan
+$hewan = new Hewan("sapi", "Mooo");
 
-// Menampilkan informasi hero
-echo $hero1->displayInfo() . "\n";
-echo $hero2->displayInfo() . "\n";
-
-// Menampilkan atribut dalam bentuk array
-print_r(get_object_vars($hero1));
+// Menampilkan hasil
+echo "{$hewan->nama_hewan} bersuara: {$hewan->suara}\n";
+echo $hewan->suaraHewan();
 ?>

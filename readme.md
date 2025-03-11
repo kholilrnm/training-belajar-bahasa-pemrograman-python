@@ -182,3 +182,23 @@ b) [1, 2, 3, 4]
 c) Error
 
 d) [4]
+
+- Apa jawaban output yang benar kode dibawah ini?
+
+```python
+class Mobil:
+    def __init__(self, merk):
+        self.merk = merk
+
+m1 = Mobil("Toyota")
+m2 = Mobil("Honda")
+
+print(m1.merk, m2.merk)
+```
+a) Error
+
+b) Toyota Honda
+
+c) Honda Toyota
+
+d) None None

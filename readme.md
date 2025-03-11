@@ -132,7 +132,7 @@ nama = input("Masukkan nama: ")
 print("Halo, " + nama)
 ```
 
-- QUIZ
+### QUIZ
 
 ```python
 x = 5

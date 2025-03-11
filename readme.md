@@ -30,6 +30,12 @@ source env/bin/activate
 ![alt text](image-1.png)
 
 ## Instalasi Jupyter Notebook
+- Apa itu Jupyter Notebook
+
+Jupyter Notebook adalah aplikasi berbasis web yang digunakan untuk membuat dan berbagi dokumen yang berisi:
+📌 Kode Python yang dapat dijalankan secara interaktif
+📌 Visualisasi data (grafik, tabel, dll.)
+📌 Catatan (Markdown, teks, gambar, dll.)
 
 ```python
 pip install notebook

@@ -134,6 +134,23 @@ print("Halo, " + nama)
 
 - QUIZ
 
-![alt text](image-3.png)
+```python
+x = 5
+y = "5"
+print(x + int(y))
+```
+a) Error
+b) 55
+c) 10
+d) "55"
 
-![alt text](image-4.png)
+```python
+x = [1, 2, 3]
+y = x
+y.append(4)
+print(x)
+```
+a) [1, 2, 3]
+b) [1, 2, 3, 4]
+c) Error
+d) [4]

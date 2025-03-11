@@ -140,8 +140,11 @@ y = "5"
 print(x + int(y))
 ```
 a) Error
+
 b) 55
+
 c) 10
+
 d) "55"
 
 ```python
@@ -151,6 +154,9 @@ y.append(4)
 print(x)
 ```
 a) [1, 2, 3]
+
 b) [1, 2, 3, 4]
+
 c) Error
+
 d) [4]

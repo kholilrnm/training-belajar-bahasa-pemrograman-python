@@ -13,12 +13,18 @@ python -m venv env
 ```
 
 Virtual Environment (venv) adalah lingkungan terisolasi yang memungkinkan kita menginstal library Python secara terpisah dari sistem utama. Ini berguna untuk:
-- ✅ Menghindari konflik antar proyek yang memerlukan versi library berbeda.
-- ✅ Menjaga sistem tetap bersih tanpa harus menginstal library secara global.
-- ✅ Memudahkan pengelolaan dependensi proyek.
+1. ✅ Menghindari konflik antar proyek yang memerlukan versi library berbeda.
+2. ✅ Menjaga sistem tetap bersih tanpa harus menginstal library secara global.
+3. ✅ Memudahkan pengelolaan dependensi proyek.
 
+- Aktifkan Virtual Environment
+  - Windows
 ```python
 env\Scripts\activate
+```
+  - MAC
+```python
+source env/bin/activate
 ```
 
 ![alt text](image-1.png)
